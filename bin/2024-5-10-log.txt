@@ -1,0 +1,8 @@
+16:6:48 -> [error]first log message!
+16:6:48 -> [error]/home/coderokkie/Projects/mprpc/example/callee/friendservice.cc:main:46
+16:12:8 -> [error]first log message!
+16:12:8 -> [error]/home/coderokkie/Projects/mprpc/example/callee/friendservice.cc:main:46
+16:17:56 -> [error]first log message!
+16:17:56 -> [error]/home/coderokkie/Projects/mprpc/example/callee/friendservice.cc:main:46
+16:17:56 -> [info]service_name:FriendServiceRpc
+16:17:56 -> [info]method_name:GetFriendsList
